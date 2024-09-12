@@ -1,11 +1,13 @@
 # YLL_MS_T-SQL_FS-S
-A Beginner's Guide to Transact-SQL Syntax
+<h3> A Beginner's Guide to Transact-SQL Syntax </h3>
 Tired of flipping through countless cheat sheets? This comprehensive SQL Mindmap Cheat Sheet is designed to make it quick and easy to find the right SQL commands in 5 major categories depending on their functionality:
-1. Data Definition Language (DDL)
-2. Data Manipulation Language (DML)
-3. Data Query Language (DQL)
-4. Transaction Control Language (TCL) - *Standard command(s) is for info only 
-5. Data Control Language (DCL) - *Standard command(s) is for info only 
+<ul>
+<li>Data Definition Language (DDL)</li>
+<li>Data Manipulation Language (DML)</li>
+<li>Data Query Language (DQL)</li>
+<li>Transaction Control Language (TCL)</li>
+<li>Data Control Language (DCL)</li>
+</ul>
 
 
 ## Key Learning Objectives of Project 4:
