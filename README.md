@@ -1,4 +1,4 @@
-# YLL_MS_T-SQL_FS-S
+# YLL-Microsoft-SQL-Fundamental
 <h3> A Beginner's Guide to Transact-SQL Syntax </h3>
 Tired of flipping through countless cheat sheets? This comprehensive SQL Mindmap Cheat Sheet is designed to make it quick and easy to find the right SQL commands in 5 major categories depending on their functionality:
 <ul>
