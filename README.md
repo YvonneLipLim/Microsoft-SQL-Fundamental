@@ -10,7 +10,7 @@ Tired of flipping through countless cheat sheets? This comprehensive SQL Mindmap
 </ul>
 
 
-## Key Learning Objectives of Project 4:
+## Key Learning Objectives:
 1. Understand the fundamental syntax and structure of Transact-SQL
 2. Write effective queries to retrieve data from Microsoft SQL Server databases
 3. Use advanced querying techniques, such as joints, subqueries, and common table expressions (CTEs).
